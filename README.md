@@ -31,3 +31,5 @@ How to restore a bricked Retroid Pocket 2 Plus to the factory default (1.0.0.7)
 ## Credits & Thanks
 
 https://www.youtube.com/user/HorreyForthenewstep (Flasher une stock rom sur le RP2+)
+
+https://www.goretroid.com/ (Retroid Pocket 2 Plus)
