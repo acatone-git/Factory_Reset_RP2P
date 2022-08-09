@@ -23,7 +23,7 @@ How to restore a bricked Retroid Pocket 2 Plus to the factory default (1.0.0.7)
 - Now connect a good USB to USB-C cable to your Laptop / PC 
 - Turn the RP2+ completely off! **VERY IMPORTANT**
 - On the RP2+ press the volume down & the volume up simultaneously **BEFORE** connecting the USB-C Cable
-- If everything goes well, the recovery process should begin shortly, the reset will be complete once "passed" appears under progress
+- If everything goes well, the recovery process should begin shortly. The factory reset will be complete once "passed" appears under "progress"
 - If any error occurs at this stage, try a different cable, poor quality cables will crash the application & fail the reset
 - Once passed, unplug the RP2+ from the PC & turn it on, the first time boot will take a while but it's normal
 - That's it, your RP2+ is back to square one!
