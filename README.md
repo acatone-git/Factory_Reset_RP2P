@@ -14,7 +14,7 @@ How to restore a bricked Retroid Pocket 2 Plus to the factory default (1.0.0.7)
 - Now Navigate to the "Tools" Folder & install the [ADB & Fastboot++](https://forum.xda-developers.com/t/tool-windows-adb-fastboot-may-2022.3944288/) bundle (ADB-and-Fastboot++_v1.0.5.exe)
 - Select "Install Universal Adb Drivers" at the end of the setup wizard & install the universal drivers as well
 - Finally, install the two windows visual c++ 2010 redistributable (vcredist_x64.exe & vcredist_x86.exe) in the "Tools" Folder 
-- 
+
 ## Factory Reset
 
 - Navigate to Tools > SPD_Factory_Tool & launch "FactoryDownload" as an administrator
