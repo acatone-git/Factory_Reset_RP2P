@@ -4,7 +4,7 @@ How to restore a bricked Retroid Pocket 2 Plus to the factory default (1.0.0.7)
 
 ## Requirements
 
-- The [recovery package](https://we.tl/t-ILOWgOOUPF) **[Link Expires on: 04/09/22]**
+- The [recovery package](https://we.tl/t-ILOWgOOUPF) **[Link Expires on: 07/03/23]**
 - A Good USB to USB-C Cable
 
 ## Setup
